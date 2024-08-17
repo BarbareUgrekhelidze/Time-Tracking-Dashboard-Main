@@ -30,7 +30,7 @@ body{
 
 .container{
     width: 80%;
-    margin: 100px auto;
+    margin: 300px auto;
     display: grid;
     gap: 20px;
     grid-template-columns: repeat(4, 1fr);
@@ -221,6 +221,7 @@ p{
     .container{
         display: grid;
         grid-template-columns: 1fr;
+        margin: 100px auto;
     }
 
     .flex-m{
