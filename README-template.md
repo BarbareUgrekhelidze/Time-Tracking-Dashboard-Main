@@ -37,4 +37,4 @@ Users should be able to:
 ## Author
 
 - Website - [Time-Tracking-Dashboard-Main](https://BarbareUgrekhelidze.github.io/Time-Tracking-Dashboard-Main/)
-- Frontend Mentor - [@BarbareUgrekhelidze](https://github.com/BarbareUgrekhelidze)
+- Frontend Mentor - [@BarbareUgrekhelidze](https://www.frontendmentor.io/profile/BarbareUgrekhelidze)
