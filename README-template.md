@@ -1,6 +1,6 @@
 # Frontend Mentor - Time tracking dashboard solution
 
-This is a solution to the [Time tracking dashboard challenge on Frontend Mentor](https://github.com/barbare999/Time-Tracking-Dashboard-Main.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Time tracking dashboard challenge on Frontend Mentor](https://github.com/BarbareUgrekhelidze/Time-Tracking-Dashboard-Main.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/barbare999/Time-Tracking-Dashboard-Main.git)
-- Live Site URL: [Add live site URL here](https://barbare999.github.io/Time-Tracking-Dashboard-Main/)
+- Solution URL: [Add solution URL here](https://github.com/BarbareUgrekhelidze/Time-Tracking-Dashboard-Main.git)
+- Live Site URL: [Add live site URL here](https://BarbareUgrekhelidze.github.io/Time-Tracking-Dashboard-Main/)
 
 ## My process
 
@@ -36,5 +36,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Time-Tracking-Dashboard-Main](https://barbare999.github.io/Time-Tracking-Dashboard-Main/)
-- Frontend Mentor - [@BarbareUgrekhelidze](https://github.com/barbare999)
+- Website - [Time-Tracking-Dashboard-Main](https://BarbareUgrekhelidze.github.io/Time-Tracking-Dashboard-Main/)
+- Frontend Mentor - [@BarbareUgrekhelidze](https://github.com/BarbareUgrekhelidze)
